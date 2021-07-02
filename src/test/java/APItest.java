@@ -32,6 +32,8 @@ public class APItest {
 
     private static Headers commonHeaders;
 
+    //this is bug branch
+
     public Headers getCommonHeaders() {
         Header header1 = new Header("authority", "automationintesting.online");
         Header header2 = new Header("accept", "application/json");
