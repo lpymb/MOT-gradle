@@ -1,0 +1,3 @@
+token is: 1MYzI02gHg37YNzu
+@delete Room postUrl = https://automationintesting.online/room/2
+$delete Room token: 1MYzI02gHg37YNzu

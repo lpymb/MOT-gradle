@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APItest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-07-02T15:25:47" hostname="SBGML03145" time="5.065">
+  <properties/>
+  <testcase name="authAndRoomAPI" classname="APItest" time="3.298"/>
+  <testcase name="messageAPI" classname="APItest" time="0.402"/>
+  <testcase name="bookingAPI" classname="APItest" time="0.444"/>
+  <testcase name="brandingAPIUsingPath" classname="APItest" time="0.429"/>
+  <testcase name="brandingAPI" classname="APItest" time="0.492"/>
+  <system-out><![CDATA[token is: 1MYzI02gHg37YNzu
+delete Room postUrl = https://automationintesting.online/room/2
+delete Room token: 1MYzI02gHg37YNzu
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
